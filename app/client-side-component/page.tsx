@@ -2,7 +2,7 @@
 
 function CSCPage() {
     return (
-        <h1>CSC Page</h1>
+        <h1>CSC Page 11</h1>
     );
 }
 
